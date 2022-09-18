@@ -1,0 +1,2 @@
+rootProject.name = "My CashBook"
+include ':app'
